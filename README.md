@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, wanderer! I'm Abdurakhmon</h1>
+<h1 align="center">👋 Hello there, I'm Abdurakhmon</h1>
 
 <p align="center">
   <img src="https://github.com/your-username/your-username/raw/main/assets/banner.gif" alt="Banner Image">
